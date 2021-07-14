@@ -1,6 +1,6 @@
 ### Hi there 👋!
 
-I am a fresh graduate of Life Science (spec. Biomedical Sciences) from the National University of Singapore. After dabbling in RNA-seq analysis during my honours thesis, I realized my budding interest in bioinformatics. I aspire to work with omics data and their integration to derive meaningful insights for personalized medicine!
+I am a fresh graduate of Life Science (spec. Biomedical Sciences) from the National University of Singapore. I am interested in understanding diseases and bioinformatics.
 
 <!--
 **nursyahr/nursyahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
